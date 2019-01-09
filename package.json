@@ -1,0 +1,26 @@
+{
+  "name": "orlando-sentinel-view",
+  "version": "1.0.0",
+  "description": "News that happen in Orlando, we'll be able to view them while leaving comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyMeloCareer/Orlando-Sentinel-View.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyMeloCareer/Orlando-Sentinel-View/issues"
+  },
+  "homepage": "https://github.com/JohnnyMeloCareer/Orlando-Sentinel-View#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.2"
+  }
+}
